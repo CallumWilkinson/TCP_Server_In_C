@@ -1,0 +1,7 @@
+# Ignore object files, executables, and debug files
+*.o
+*.out
+*.exe
+*.log
+*.dSYM/
+valgrind-log*
